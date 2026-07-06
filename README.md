@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saharan-1762003/saharan-1762003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋 What's Up?
 
-Here are some ideas to get you started:
+<h1>Priyanshu Saharan</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Full Stack Developer | Competitive Programmer | Software Engineer
+
+<p>
+🎓 Computer Science Engineering @ IIIT Ranchi
+</p>
+
+<p>
+🟠 LeetCode Knight <b>(1904)</b> &nbsp; | &nbsp;
+⭐ CodeChef <b>3★ (1606)</b> &nbsp; | &nbsp;
+🚀 500+ DSA Problems Solved
+</p>
+
+</div>
+
+---
+
