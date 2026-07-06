@@ -26,12 +26,37 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 - 🎓 Computer Science Engineering Student at **IIIT Ranchi**
 - 💻 Passionate about **Full Stack Development**
-- 🌱 Currently learning **System Design & Advanced Backend**
 - 🧠 Strong interest in **DSA & Competitive Programming**
 - 🚀 Solved **500+ DSA Problems**
 - 🏆 **LeetCode Knight (1904)** | **CodeChef 3★ (1606)**
 - 🎯 Looking for **Software Development Engineer (SDE)** opportunities
+
+---
+
+<h2 align="center">🌐 Portfolio & Resume</h2>
+
+<p align="center">
+
+<a href="https://priyanshu-saharan-pf.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌍_Portfolio-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1-LTXSXxwIPBqQvmhoW1ySa2HWGG4TIX5/view?usp=drivesdk" target="_blank">
+<img src="https://img.shields.io/badge/📄_Resume-E53935?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/saharan-1762003" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker" />
+</p>
