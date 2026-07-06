@@ -1,62 +1,52 @@
 <div align="center">
 
-# Hey 👋 What's Up?
+# Hi 👋, I'm Priyanshu Saharan
 
-<h1>Priyanshu Saharan</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
-</p>
+### Full Stack Developer • MERN Stack • Competitive Programmer
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=saharan-1762003&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=LeetCode+Knight+(1904);500%2B+DSA+Problems;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
 </p>
 
-<p>
-🎓 Computer Science Engineering @ IIIT Ranchi
-</p>
+<p align="center">
 
-<p>
-🟠 LeetCode Knight <b>(1904)</b> &nbsp; | &nbsp;
-⭐ CodeChef <b>3★ (1606)</b> &nbsp; | &nbsp;
-🚀 500+ DSA Problems Solved
+🎓 CSE @ <b>IIIT Ranchi</b> •
+🏆 <b>LeetCode Knight (1904)</b> •
+⭐ <b>CodeChef 3★</b>
+
 </p>
 
 </div>
 
 ---
+## 🚀 About Me
 
-<h2 align="center">🚀 About Me</h2>
+I'm a Computer Science undergraduate at **IIIT Ranchi** passionate about building scalable full-stack applications and solving algorithmic problems.
 
-- 🎓 Computer Science Engineering Student at **IIIT Ranchi**
-- 💻 Passionate about **Full Stack Development**
-- 🧠 Strong interest in **DSA & Competitive Programming**
-- 🚀 Solved **500+ DSA Problems**
-- 🏆 **LeetCode Knight (1904)** | **CodeChef 3★ (1606)**
-- 🎯 Looking for **Software Development Engineer (SDE)** opportunities
+- 💻 Building products using the **MERN Stack**
+- 🏆 LeetCode Knight (1904) & CodeChef 3★
+- 📈 Solved **500+ DSA problems**
+- 🌱 Currently learning **System Design** and backend scalability
+- 🎯 Looking for **Software Development Engineer** opportunities
 
----
+## 💻 Tech Stack
 
-<h2 align="center">🌐 Portfolio & Resume</h2>
-
-<p align="center">
-
-<a href="https://priyanshu-saharan-pf.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌍_Portfolio-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1-LTXSXxwIPBqQvmhoW1ySa2HWGG4TIX5/view?usp=drivesdk" target="_blank">
-<img src="https://img.shields.io/badge/📄_Resume-E53935?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/saharan-1762003" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts"/>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker" />
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
 </p>
