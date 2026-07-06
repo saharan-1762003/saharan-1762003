@@ -192,23 +192,6 @@ A **hotel booking platform** featuring secure authentication, booking management
 </tr>
 </table>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saharan-1762003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharan-1762003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saharan-1762003&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 # 📫 Connect With Me
