@@ -29,6 +29,54 @@ I'm a Computer Science undergraduate at **IIIT Ranchi** passionate about buildin
 - 🌱 Currently learning **System Design** and backend scalability
 - 🎯 Looking for **Software Development Engineer** opportunities
 
+---
+
+<h2 align="center">🌐 Portfolio & Resume</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🌍 Portfolio
+
+Explore my projects and experience.
+
+<a href="https://priyanshu-saharan-pf.netlify.app/">
+<img src="https://img.shields.io/badge/View%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📄 Resume
+
+Download my latest resume.
+
+<a href="https://drive.google.com/file/d/1-LTXSXxwIPBqQvmhoW1ySa2HWGG4TIX5/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/View%20Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 GitHub
+
+Browse all my repositories.
+
+<a href="https://github.com/saharan-1762003">
+<img src="https://img.shields.io/badge/Open%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
